@@ -1,0 +1,2 @@
+# react-hospital-mgmt-system-frontend
+The purpose of this project to build a responsive Web Application where Patients &amp; Doctors can Add, Update, View &amp; Delete their appointment’s as per requirement. This system helps Patients to find the available time slot on a particular date and book the appointment very easily. Whereas Doctors can even view and maintain historic data related to their patients and appointments.
